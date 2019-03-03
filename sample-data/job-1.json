@@ -1,0 +1,18 @@
+{
+	"title": "Software Engineer Lead",
+	"salary_range": [
+		"10000",
+		"20000"
+	],
+	"address": {
+		"city": "Mahalaxmi <Type ahead selection>"
+	},
+	"responsibility": [
+		"Leading a team",
+		"Architecting the solution"
+	],
+	"skills_required": [
+		"ReactJS",
+		"SQL Server"
+	]
+}

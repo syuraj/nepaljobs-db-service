@@ -1,0 +1,55 @@
+{
+	"name": "Suraj Shrestha",
+	"email": "syuraj@gmail.com",
+	"phone_no": "9841-001100",
+	"current_address": {
+		"city": "Mahalaxmi <Type ahead selection>"
+	},
+	"future_employment": {
+		"cities_looking_to_work_for": [
+			"Mahalaxmi",
+			"Lagankhel",
+			"<Type ahead selection>"
+		],
+		"salary_range": [
+			"10000",
+			"20000"
+		]
+	},
+	"employment_history": [
+		{
+			"isCurrent": "Yes",
+			"career_level": "Experienced <multiple selection options e.g. Manager, Executive, Entry>",
+			"title": "Software Engineering Lead",
+			"start_date": "2015-01-01",
+			"responsibility": [
+				"Leading a team",
+				"Architecting the solution"
+			]
+		},
+		{
+			"isCurrent": "No",
+			"career_level": "Experienced <multiple selection options e.g. Manager, Executive, Entry>",
+			"title": "Software Engineer",
+			"start_date": "2015-01-01",
+			"end_date": "2015-01-01",
+			"responsibility": [
+				"Implementing database design"
+			]
+		}
+	],
+	"education": {
+		"highest_education_level": "Bachelors",
+		"school_name": "National College of Engineering",
+		"year_graduated": "2011"
+	},
+	"skills": [
+		"ReactJs",
+		"SQL Server"
+	],
+	"awards_or_certificates": [
+		"SQL Server certificate 2009"
+	],
+	"createdDate": "2001-01-01 Z:00:00",
+	"modifiedDate": "2001-01-01 Z:00:00"
+}
