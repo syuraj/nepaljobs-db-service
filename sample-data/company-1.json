@@ -1,6 +1,11 @@
 {
 	"name": "Mahalaxmi Boarding School",
 	"address": {
-		"city": "Mahalaxmi <Type ahead selection>"
-	}
+		"city": "Mahalaxmi <Type ahead selection>",
+		"coordinates": "39.8439681,-86.1637907"
+	},
+	"pictures": [
+		"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTy4Wm8N5uttFPl-KTlaUwSK376yw2Fou2uYFNRrUkW2ZoVlUpNQ",
+		"https://www.kone.co.nz/Images/company-main-hero-banner-1440x670_tcm47-13299.jpg?v=5"
+	]
 }
