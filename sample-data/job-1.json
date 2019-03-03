@@ -1,18 +1,25 @@
 {
+	"company_name": "Mahalaxmi Boarding School",
+	"address": {
+		"city": "Mahalaxmi <Type ahead selection>"
+	},
 	"title": "Software Engineer Lead",
 	"salary_range": [
 		"10000",
 		"20000"
 	],
-	"address": {
-		"city": "Mahalaxmi <Type ahead selection>"
-	},
 	"responsibility": [
 		"Leading a team",
 		"Architecting the solution"
 	],
+	"years_experience_required": "2",
 	"skills_required": [
 		"ReactJS",
 		"SQL Server"
+	],
+	"last_date_to_apply": "2019-05-05",
+	"benefits": [
+		"Pension",
+		"Commute"
 	]
 }

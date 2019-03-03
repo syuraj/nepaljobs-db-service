@@ -1,6 +1,6 @@
 
 **Assumptions**
-1. .env file created (as pfer .env-sample) with DATABASE_URL pointing to mongo instance (either locally or mongodb atlas)
+1. .env file created (as per .env-sample) with DATABASE_URL pointing to mongo instance (either locally or mongodb atlas)
 
 
 ## Steps to run
